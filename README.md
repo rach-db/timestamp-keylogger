@@ -29,6 +29,6 @@ This keylogger should only be used for educational purposes, research, or in env
 2. Run the keylogger:
 
     ```bash
-    python keylogger.py
+    python simple_keylogger_with_timestamp.py
     ```
 
